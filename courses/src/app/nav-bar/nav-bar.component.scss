@@ -1,0 +1,18 @@
+.navbar {
+    background-color: #333; /* Change the background color to your preference */
+    padding: 10px;
+  }
+  
+  .navbar-button {
+    background-color: transparent;
+    border: none;
+    color: #fff; /* Change the text color to your preference */
+    cursor: pointer;
+    font-size: 16px;
+    margin-right: 10px; /* Adjust spacing between buttons */
+    transition: all 0.3s ease; /* Add transition effect for smoother hover */
+  
+    &:hover {
+      background-color: #555; /* Change the background color on hover */
+    }
+  }

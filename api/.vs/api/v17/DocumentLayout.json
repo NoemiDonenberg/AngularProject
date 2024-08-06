@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB3602E-B9A2-421A-8041-4EA2998E794C}|api\\api.csproj|C:\\Users\\User\\Desktop\\api\\api\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AB3602E-B9A2-421A-8041-4EA2998E794C}|api\\api.csproj|solutionrelative:api\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB3602E-B9A2-421A-8041-4EA2998E794C}|api\\api.csproj|C:\\Users\\User\\Desktop\\api\\api\\lecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AB3602E-B9A2-421A-8041-4EA2998E794C}|api\\api.csproj|solutionrelative:api\\lecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB3602E-B9A2-421A-8041-4EA2998E794C}|api\\api.csproj|C:\\Users\\User\\Desktop\\api\\api\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AB3602E-B9A2-421A-8041-4EA2998E794C}|api\\api.csproj|solutionrelative:api\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB3602E-B9A2-421A-8041-4EA2998E794C}|api\\api.csproj|C:\\Users\\User\\Desktop\\api\\api\\courseoutmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AB3602E-B9A2-421A-8041-4EA2998E794C}|api\\api.csproj|solutionrelative:api\\courseoutmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB3602E-B9A2-421A-8041-4EA2998E794C}|api\\api.csproj|c:\\users\\user\\desktop\\api\\api\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AB3602E-B9A2-421A-8041-4EA2998E794C}|api\\api.csproj|solutionrelative:api\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB3602E-B9A2-421A-8041-4EA2998E794C}|api\\api.csproj|C:\\Users\\User\\Desktop\\api\\api\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AB3602E-B9A2-421A-8041-4EA2998E794C}|api\\api.csproj|solutionrelative:api\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB3602E-B9A2-421A-8041-4EA2998E794C}|api\\api.csproj|c:\\users\\user\\desktop\\api\\api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AB3602E-B9A2-421A-8041-4EA2998E794C}|api\\api.csproj|solutionrelative:api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB3602E-B9A2-421A-8041-4EA2998E794C}|api\\api.csproj|C:\\Users\\User\\Desktop\\api\\api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AB3602E-B9A2-421A-8041-4EA2998E794C}|api\\api.csproj|solutionrelative:api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB3602E-B9A2-421A-8041-4EA2998E794C}|api\\api.csproj|C:\\Users\\User\\Desktop\\api\\api\\controllers\\lecturercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AB3602E-B9A2-421A-8041-4EA2998E794C}|api\\api.csproj|solutionrelative:api\\controllers\\lecturercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CourseOutModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\api\\api\\CourseOutModel.cs",
+              "RelativeDocumentMoniker": "api\\CourseOutModel.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\api\\api\\CourseOutModel.cs",
+              "RelativeToolTip": "api\\CourseOutModel.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAUwAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T10:05:58.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\api\\api\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "api\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\api\\api\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "api\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAqwBAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T10:53:52.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\api\\api\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "api\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\api\\api\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "api\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T10:05:58.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\api\\api\\Customer.cs",
+              "RelativeDocumentMoniker": "api\\Customer.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\api\\api\\Customer.cs",
+              "RelativeToolTip": "api\\Customer.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAzwA8AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T10:05:58.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\api\\api\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "api\\Controllers\\CoursesController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\api\\api\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "api\\Controllers\\CoursesController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAqwDAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T10:05:58.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\api\\api\\Category.cs",
+              "RelativeDocumentMoniker": "api\\Category.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\api\\api\\Category.cs",
+              "RelativeToolTip": "api\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAIwA0AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T10:05:58.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lecturer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\api\\api\\Lecturer.cs",
+              "RelativeDocumentMoniker": "api\\Lecturer.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\api\\api\\Lecturer.cs",
+              "RelativeToolTip": "api\\Lecturer.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T10:05:58.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\api\\api\\Course.cs",
+              "RelativeDocumentMoniker": "api\\Course.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\api\\api\\Course.cs",
+              "RelativeToolTip": "api\\Course.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAASwC0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T10:05:58.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LecturerController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\api\\api\\Controllers\\LecturerController.cs",
+              "RelativeDocumentMoniker": "api\\Controllers\\LecturerController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\api\\api\\Controllers\\LecturerController.cs",
+              "RelativeToolTip": "api\\Controllers\\LecturerController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAA3wA8AAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T10:05:58.892Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

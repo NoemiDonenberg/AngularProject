@@ -1,0 +1,21 @@
+<!-- <ng-container [ngClass]="{'card-container':!showBtn"></ng-container> -->
+<div class="card mb-4" [ngClass]="{'margin-card': !showBtn}" *ngIf="course">
+    <img class="card-img-top" [src]="'../../assets/images/' + course.img" alt="Course image">
+    <div class="card-body">
+        <h5 class="card-title">{{course.name}}</h5>
+        <div>Option Learning: {{course.type == 0 ? 'frontal' : 'zoom'}}</div>
+        <div>Category: {{courseCategory || 'none'}}</div>
+        <p class="card-text">This course includes {{course.lessons}} lessons.</p>
+        <button class="btn btn-primary" *ngIf="!showSilabus" (click)="toggleSilabus()">To more details</button>
+        <div *ngIf="showSilabus" class="mt-3">
+            <h5>סילבוס:</h5>
+            <ul>
+                <li *ngFor="let item of course.cilibus">{{item}}</li>
+            </ul>
+            <button class="btn btn-primary" (click)="toggleSilabus()">less</button>
+        </div>
+        <button class="btn btn-primary" *ngIf="!showBtn && isLecturer" (click)="toEdit()">To Edit</button>
+        <button *ngIf="showBtn" class="btn btn-primary mt-2" (click)="showDetails(course.id)">To show the
+            course</button>
+    </div>
+</div>

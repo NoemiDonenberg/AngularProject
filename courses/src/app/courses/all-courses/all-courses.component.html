@@ -1,0 +1,38 @@
+<!-- <div class="container">
+  <div style="height: 2rem;"></div> 
+  <div class="row justify-content-center">
+    <div class="col-lg-4 col-md-6 col-sm-12 mb-3" *ngFor="let p of coursesList">
+      <app-cours-card [course]="p" [showBtn]="true"></app-cours-card>
+    </div>
+  </div>
+</div> -->
+<div class="container">
+  <div style="height: 2rem;"></div> <!-- רווח לפני הכרטיסים -->
+
+  <!-- Search Filters -->
+  <div class="row mb-3">
+    <div class="col-md-4">
+      <input type="text" class="form-control" placeholder="Course Name" [(ngModel)]="filters.courseName"
+        (ngModelChange)="applyFilters()">
+    </div>
+    <div class="col-md-4">
+      <select class="form-control" [(ngModel)]="filters.courseCategory" (ngModelChange)="applyFilters()">
+        <option value="">All Categories</option>
+        <option *ngFor="let category of courseCategories" [value]="category.id">{{category.name}}</option>
+      </select>
+    </div>
+    <div class="col-md-4">
+      <select class="form-control" [(ngModel)]="filters.courseOption" (ngModelChange)="applyFilters()">
+        <option value="">All Options</option>
+        <option *ngFor="let option of courseOptions" [value]="option.value">{{option.title}}</option>
+      </select>
+    </div>
+  </div>
+
+  <!-- Courses Display -->
+  <div class="row justify-content-center">
+    <div class="col-lg-4 col-md-6 col-sm-12 mb-3" *ngFor="let p of filteredCoursesList">
+      <app-cours-card [course]="p" [courseCategory]="findCategory(p.categoryId || 0)" [showBtn]="true"></app-cours-card>
+    </div>
+  </div>
+</div>

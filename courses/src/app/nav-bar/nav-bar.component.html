@@ -1,0 +1,23 @@
+<div class="navbar">
+    <ng-container *ngIf="isUser || isLecturer">
+        <button class="navbar-button" (click)="toAllCourses()"> All Courses </button>
+        <ng-container *ngIf="isLecturer">
+            <button class="navbar-button" (click)="toAddCourse()"> Add Course </button>
+
+
+
+        </ng-container>
+
+
+        <button class="navbar-button" (click)="toLogout()"> Logout </button>
+    </ng-container>
+
+    <ng-container *ngIf="!isUser && !isLecturer">
+        <button class="navbar-button" (click)="toLogin()"> toLogin </button>
+
+        <button class="navbar-button" (click)="toRegister()"> Register </button>
+    </ng-container>
+
+
+    <!-- <button class="navbar-button" (click)="toLogout()"> Logout </button> -->
+</div>

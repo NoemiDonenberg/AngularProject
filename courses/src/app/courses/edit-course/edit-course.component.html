@@ -1,0 +1,125 @@
+<form *ngIf="editForm1" [formGroup]="editForm1" class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title text-center turquoise">Edit Course</h5>
+
+                    <!-- Form fields -->
+
+                    <div class="form-group form-floating mb-3">
+                        <input class="form-control"
+                            [ngClass]="{'is-invalid': editForm1.controls['name'].touched &&  editForm1.controls['name'].errors}"
+                            id="name" name="name" type="text" formControlName="name">
+                        <label for="name">Name:</label>
+                        <ng-container
+                            *ngIf=" editForm1.controls['name'].touched &&  editForm1.controls['name'].errors">
+                            <div class="alert alert-danger" *ngIf=" editForm1.controls['name'].errors['required']">
+                                This field is required</div>
+                        </ng-container>
+                    </div>
+
+                    <div class="form-group form-floating mb-3">
+                        <select class="form-control"
+                            [ngClass]="{'is-invalid': editForm1.controls['categoryId'].touched && editForm1.controls['categoryId'].errors}"
+                            id="categoryId" name="categoryId" formControlName="categoryId">
+                            <option *ngFor="let category of categories" [value]="category.id">{{category.name}}</option>
+                        </select>
+                        <label for="categoryId">categoryId:</label>
+                        <ng-container
+                            *ngIf="editForm1.controls['categoryId'].touched && editForm1.controls['categoryId'].errors">
+                            <div class="alert alert-danger" *ngIf="editForm1.controls['categoryId'].errors['required']">
+                                This field is required
+                            </div>
+                        </ng-container>
+                    </div>
+
+                    <div class="form-group form-floating mb-3">
+                        <input class="form-control"
+                            [ngClass]="{'is-invalid': editForm1.controls['lessons'].touched &&  editForm1.controls['lessons'].errors}"
+                            id="lessons" name="lessons" type="number" formControlName="lessons">
+                        <label for="lessons">Lessons:</label>
+                        <ng-container
+                            *ngIf=" editForm1.controls['lessons'].touched &&  editForm1.controls['lessons'].errors">
+                            <div class="alert alert-danger" *ngIf=" editForm1.controls['lessons'].errors['required']">
+                                This field is required</div>
+                        </ng-container>
+                    </div>
+
+                    <div class="form-group form-floating mb-3">
+                        <input class="form-control"
+                            [ngClass]="{'is-invalid': editForm1.controls['start'].touched &&  editForm1.controls['start'].errors}"
+                            id="start" name="start" type="date" formControlName="start">
+                        <label for="start">Start:</label>
+                        <ng-container
+                            *ngIf=" editForm1.controls['start'].touched &&  editForm1.controls['start'].errors">
+                            <div class="alert alert-danger" *ngIf=" editForm1.controls['start'].errors['required']">
+                                This field is required</div>
+                        </ng-container>
+                    </div>
+
+                    <div formArrayName="cilibus">
+                        <div *ngFor="let cilibusField of cilibus.controls; let i = index" [formGroupName]="i"
+                            class="form-group form-floating mb-3">
+                            <input class="form-control"
+                                [ngClass]="{'is-invalid':cilibusField.get('item')?.touched && cilibusField.get('item')?.errors}"
+                                id="cilibus{{i}}" name="cilibus{{i}}" type="text" formControlName="item">
+                            <label for="cilibus{{i}}">Silabus Item:</label>
+                            <ng-container *ngIf="cilibusField.get('item')?.touched && cilibusField.get('item')?.errors">
+                                <div class="alert alert-danger" *ngIf="cilibusField.get('item')?.errors?.['required']">
+                                    This field is required</div>
+                            </ng-container>
+                            <button type="button" class="btn btn-danger mt-2"
+                                (click)="removeCilibusField(i)">Remove</button>
+                        </div>
+                    </div>
+                    <button type="button" class="btn btn-secondary mb-3" (click)="addCilibusField()">Add Silabus
+                        Item</button>
+
+                    <div class="form-group form-floating mb-3">
+                        <select class="form-control"
+                            [ngClass]="{'is-invalid': editForm1.controls['type'].touched && editForm1.controls['type'].errors}"
+                            id="type" name="type" formControlName="type">
+                            <option *ngFor="let type of learningTypes" [value]="type.value">{{type.title}}</option>
+                        </select>
+                        <label for="type">Type:</label>
+                        <ng-container *ngIf="editForm1.controls['type'].touched && editForm1.controls['type'].errors">
+                            <div class="alert alert-danger" *ngIf="editForm1.controls['type'].errors['required']">
+                                This field is required
+                            </div>
+                        </ng-container>
+                    </div>
+
+                    <div class="form-group form-floating mb-3">
+                        <input class="form-control"
+                            [ngClass]="{'is-invalid': editForm1.controls['lecturerId'].touched &&  editForm1.controls['lecturerId'].errors}"
+                            id="lecturerId" name="lecturerId" type="number" formControlName="lecturerId">
+                        <label for="lecturerId">Lecturer Id:</label>
+                        <ng-container
+                            *ngIf=" editForm1.controls['lecturerId'].touched &&  editForm1.controls['lecturerId'].errors">
+                            <div class="alert alert-danger"
+                                *ngIf=" editForm1.controls['lecturerId'].errors['required']">
+                                This field is required</div>
+                        </ng-container>
+                    </div>
+                    <!-- 
+            <div class="form-group form-floating mb-3">
+                <input class="form-control"
+                       [ngClass]="{'is-invalid':  editForm1.controls['img'].touched &&  editForm1.controls['img'].errors}"
+                       id="img" name="img" type="file" (change)="onFileChange($event)">
+                <label for="img">Image:</label>
+                <ng-container *ngIf=" editForm1.controls['img'].touched &&  editForm1.controls['img'].errors">
+                  <div class="alert alert-danger" *ngIf=" editForm1.controls['img'].errors['required']">
+                    This field is required
+                  </div>
+                </ng-container>
+              </div> -->
+                    <div class="d-grid gap-2">
+                        <button appHighLight (click)="save()" [disabled]="! editForm1.valid"
+                            class="btn btn-primary">Save</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>

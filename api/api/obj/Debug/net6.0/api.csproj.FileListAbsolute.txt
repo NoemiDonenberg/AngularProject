@@ -1,0 +1,187 @@
+Y:\Groups\Group_5\דוננברג נעמי\אנגולר\api\api\obj\Debug\net6.0\api.csproj.AssemblyReference.cache
+Y:\Groups\Group_5\דוננברג נעמי\אנגולר\api\api\obj\Debug\net6.0\api.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_5\דוננברג נעמי\אנגולר\api\api\obj\Debug\net6.0\api.AssemblyInfoInputs.cache
+Y:\Groups\Group_5\דוננברג נעמי\אנגולר\api\api\obj\Debug\net6.0\api.AssemblyInfo.cs
+Y:\Groups\Group_5\דוננברג נעמי\אנגולר\api\api\obj\Debug\net6.0\api.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_5\דוננברג נעמי\אנגולר\api\api\obj\Debug\net6.0\api.MvcApplicationPartsAssemblyInfo.cs
+Y:\Groups\Group_5\דוננברג נעמי\אנגולר\api\api\obj\Debug\net6.0\api.MvcApplicationPartsAssemblyInfo.cache
+Y:\Groups\Group_5\דוננברג נעמי\אנגולר\api\api\bin\Debug\net6.0\appsettings.Development.json
+Y:\Groups\Group_5\דוננברג נעמי\אנגולר\api\api\bin\Debug\net6.0\appsettings.json
+Y:\Groups\Group_5\דוננברג נעמי\אנגולר\api\api\bin\Debug\net6.0\api.exe
+Y:\Groups\Group_5\דוננברג נעמי\אנגולר\api\api\bin\Debug\net6.0\api.deps.json
+Y:\Groups\Group_5\דוננברג נעמי\אנגולר\api\api\bin\Debug\net6.0\api.runtimeconfig.json
+Y:\Groups\Group_5\דוננברג נעמי\אנגולר\api\api\bin\Debug\net6.0\api.dll
+Y:\Groups\Group_5\דוננברג נעמי\אנגולר\api\api\bin\Debug\net6.0\api.pdb
+Y:\Groups\Group_5\דוננברג נעמי\אנגולר\api\api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+Y:\Groups\Group_5\דוננברג נעמי\אנגולר\api\api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+Y:\Groups\Group_5\דוננברג נעמי\אנגולר\api\api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Y:\Groups\Group_5\דוננברג נעמי\אנגולר\api\api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Y:\Groups\Group_5\דוננברג נעמי\אנגולר\api\api\obj\Debug\net6.0\staticwebassets.build.json
+Y:\Groups\Group_5\דוננברג נעמי\אנגולר\api\api\obj\Debug\net6.0\staticwebassets.development.json
+Y:\Groups\Group_5\דוננברג נעמי\אנגולר\api\api\obj\Debug\net6.0\scopedcss\bundle\api.styles.css
+Y:\Groups\Group_5\דוננברג נעמי\אנגולר\api\api\obj\Debug\net6.0\api.csproj.CopyComplete
+Y:\Groups\Group_5\דוננברג נעמי\אנגולר\api\api\obj\Debug\net6.0\api.dll
+Y:\Groups\Group_5\דוננברג נעמי\אנגולר\api\api\obj\Debug\net6.0\refint\api.dll
+Y:\Groups\Group_5\דוננברג נעמי\אנגולר\api\api\obj\Debug\net6.0\api.pdb
+Y:\Groups\Group_5\דוננברג נעמי\אנגולר\api\api\obj\Debug\net6.0\api.genruntimeconfig.cache
+Y:\Groups\Group_5\דוננברג נעמי\אנגולר\api\api\obj\Debug\net6.0\ref\api.dll
+C:\Users\user1\Documents\חדוה תכנות\שונות\נעמי\אנגולר\api\api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user1\Documents\חדוה תכנות\שונות\נעמי\אנגולר\api\api\bin\Debug\net6.0\appsettings.json
+C:\Users\user1\Documents\חדוה תכנות\שונות\נעמי\אנגולר\api\api\bin\Debug\net6.0\api.exe
+C:\Users\user1\Documents\חדוה תכנות\שונות\נעמי\אנגולר\api\api\bin\Debug\net6.0\api.deps.json
+C:\Users\user1\Documents\חדוה תכנות\שונות\נעמי\אנגולר\api\api\bin\Debug\net6.0\api.runtimeconfig.json
+C:\Users\user1\Documents\חדוה תכנות\שונות\נעמי\אנגולר\api\api\bin\Debug\net6.0\api.dll
+C:\Users\user1\Documents\חדוה תכנות\שונות\נעמי\אנגולר\api\api\bin\Debug\net6.0\api.pdb
+C:\Users\user1\Documents\חדוה תכנות\שונות\נעמי\אנגולר\api\api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\user1\Documents\חדוה תכנות\שונות\נעמי\אנגולר\api\api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user1\Documents\חדוה תכנות\שונות\נעמי\אנגולר\api\api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user1\Documents\חדוה תכנות\שונות\נעמי\אנגולר\api\api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user1\Documents\חדוה תכנות\שונות\נעמי\אנגולר\api\api\obj\Debug\net6.0\api.csproj.AssemblyReference.cache
+C:\Users\user1\Documents\חדוה תכנות\שונות\נעמי\אנגולר\api\api\obj\Debug\net6.0\api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Documents\חדוה תכנות\שונות\נעמי\אנגולר\api\api\obj\Debug\net6.0\api.AssemblyInfoInputs.cache
+C:\Users\user1\Documents\חדוה תכנות\שונות\נעמי\אנגולר\api\api\obj\Debug\net6.0\api.AssemblyInfo.cs
+C:\Users\user1\Documents\חדוה תכנות\שונות\נעמי\אנגולר\api\api\obj\Debug\net6.0\api.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\חדוה תכנות\שונות\נעמי\אנגולר\api\api\obj\Debug\net6.0\api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user1\Documents\חדוה תכנות\שונות\נעמי\אנגולר\api\api\obj\Debug\net6.0\api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user1\Documents\חדוה תכנות\שונות\נעמי\אנגולר\api\api\obj\Debug\net6.0\staticwebassets\msbuild.api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user1\Documents\חדוה תכנות\שונות\נעמי\אנגולר\api\api\obj\Debug\net6.0\staticwebassets\msbuild.build.api.props
+C:\Users\user1\Documents\חדוה תכנות\שונות\נעמי\אנגולר\api\api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.api.props
+C:\Users\user1\Documents\חדוה תכנות\שונות\נעמי\אנגולר\api\api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.api.props
+C:\Users\user1\Documents\חדוה תכנות\שונות\נעמי\אנגולר\api\api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\user1\Documents\חדוה תכנות\שונות\נעמי\אנגולר\api\api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user1\Documents\חדוה תכנות\שונות\נעמי\אנגולר\api\api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user1\Documents\חדוה תכנות\שונות\נעמי\אנגולר\api\api\obj\Debug\net6.0\scopedcss\bundle\api.styles.css
+C:\Users\user1\Documents\חדוה תכנות\שונות\נעמי\אנגולר\api\api\obj\Debug\net6.0\api.csproj.CopyComplete
+C:\Users\user1\Documents\חדוה תכנות\שונות\נעמי\אנגולר\api\api\obj\Debug\net6.0\api.dll
+C:\Users\user1\Documents\חדוה תכנות\שונות\נעמי\אנגולר\api\api\obj\Debug\net6.0\refint\api.dll
+C:\Users\user1\Documents\חדוה תכנות\שונות\נעמי\אנגולר\api\api\obj\Debug\net6.0\api.pdb
+C:\Users\user1\Documents\חדוה תכנות\שונות\נעמי\אנגולר\api\api\obj\Debug\net6.0\api.genruntimeconfig.cache
+C:\Users\user1\Documents\חדוה תכנות\שונות\נעמי\אנגולר\api\api\obj\Debug\net6.0\ref\api.dll
+C:\Users\User\Documents\תכנות\אנגולר\api\api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Documents\תכנות\אנגולר\api\api\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Documents\תכנות\אנגולר\api\api\bin\Debug\net6.0\api.exe
+C:\Users\User\Documents\תכנות\אנגולר\api\api\bin\Debug\net6.0\api.deps.json
+C:\Users\User\Documents\תכנות\אנגולר\api\api\bin\Debug\net6.0\api.runtimeconfig.json
+C:\Users\User\Documents\תכנות\אנגולר\api\api\bin\Debug\net6.0\api.dll
+C:\Users\User\Documents\תכנות\אנגולר\api\api\bin\Debug\net6.0\api.pdb
+C:\Users\User\Documents\תכנות\אנגולר\api\api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\User\Documents\תכנות\אנגולר\api\api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Documents\תכנות\אנגולר\api\api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Documents\תכנות\אנגולר\api\api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Documents\תכנות\אנגולר\api\api\obj\Debug\net6.0\api.csproj.AssemblyReference.cache
+C:\Users\User\Documents\תכנות\אנגולר\api\api\obj\Debug\net6.0\api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\תכנות\אנגולר\api\api\obj\Debug\net6.0\api.AssemblyInfoInputs.cache
+C:\Users\User\Documents\תכנות\אנגולר\api\api\obj\Debug\net6.0\api.AssemblyInfo.cs
+C:\Users\User\Documents\תכנות\אנגולר\api\api\obj\Debug\net6.0\api.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\תכנות\אנגולר\api\api\obj\Debug\net6.0\api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Documents\תכנות\אנגולר\api\api\obj\Debug\net6.0\api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Documents\תכנות\אנגולר\api\api\obj\Debug\net6.0\staticwebassets\msbuild.api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Documents\תכנות\אנגולר\api\api\obj\Debug\net6.0\staticwebassets\msbuild.build.api.props
+C:\Users\User\Documents\תכנות\אנגולר\api\api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.api.props
+C:\Users\User\Documents\תכנות\אנגולר\api\api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.api.props
+C:\Users\User\Documents\תכנות\אנגולר\api\api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\User\Documents\תכנות\אנגולר\api\api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Documents\תכנות\אנגולר\api\api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Documents\תכנות\אנגולר\api\api\obj\Debug\net6.0\scopedcss\bundle\api.styles.css
+C:\Users\User\Documents\תכנות\אנגולר\api\api\obj\Debug\net6.0\api.csproj.CopyComplete
+C:\Users\User\Documents\תכנות\אנגולר\api\api\obj\Debug\net6.0\api.dll
+C:\Users\User\Documents\תכנות\אנגולר\api\api\obj\Debug\net6.0\refint\api.dll
+C:\Users\User\Documents\תכנות\אנגולר\api\api\obj\Debug\net6.0\api.pdb
+C:\Users\User\Documents\תכנות\אנגולר\api\api\obj\Debug\net6.0\api.genruntimeconfig.cache
+C:\Users\User\Documents\תכנות\אנגולר\api\api\obj\Debug\net6.0\ref\api.dll
+D:\api\api\bin\Debug\net6.0\appsettings.Development.json
+D:\api\api\bin\Debug\net6.0\appsettings.json
+D:\api\api\bin\Debug\net6.0\api.exe
+D:\api\api\bin\Debug\net6.0\api.deps.json
+D:\api\api\bin\Debug\net6.0\api.runtimeconfig.json
+D:\api\api\bin\Debug\net6.0\api.dll
+D:\api\api\bin\Debug\net6.0\api.pdb
+D:\api\api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\api\api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\api\api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\api\api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\api\api\obj\Debug\net6.0\api.csproj.AssemblyReference.cache
+D:\api\api\obj\Debug\net6.0\api.GeneratedMSBuildEditorConfig.editorconfig
+D:\api\api\obj\Debug\net6.0\api.AssemblyInfoInputs.cache
+D:\api\api\obj\Debug\net6.0\api.AssemblyInfo.cs
+D:\api\api\obj\Debug\net6.0\api.csproj.CoreCompileInputs.cache
+D:\api\api\obj\Debug\net6.0\api.MvcApplicationPartsAssemblyInfo.cs
+D:\api\api\obj\Debug\net6.0\api.MvcApplicationPartsAssemblyInfo.cache
+D:\api\api\obj\Debug\net6.0\staticwebassets.build.json
+D:\api\api\obj\Debug\net6.0\staticwebassets.development.json
+D:\api\api\obj\Debug\net6.0\staticwebassets\msbuild.api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\api\api\obj\Debug\net6.0\staticwebassets\msbuild.build.api.props
+D:\api\api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.api.props
+D:\api\api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.api.props
+D:\api\api\obj\Debug\net6.0\staticwebassets.pack.json
+D:\api\api\obj\Debug\net6.0\scopedcss\bundle\api.styles.css
+D:\api\api\obj\Debug\net6.0\api.csproj.Up2Date
+D:\api\api\obj\Debug\net6.0\api.dll
+D:\api\api\obj\Debug\net6.0\refint\api.dll
+D:\api\api\obj\Debug\net6.0\api.pdb
+D:\api\api\obj\Debug\net6.0\api.genruntimeconfig.cache
+D:\api\api\obj\Debug\net6.0\ref\api.dll
+C:\Users\User\Desktop\api\api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Desktop\api\api\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Desktop\api\api\bin\Debug\net6.0\api.exe
+C:\Users\User\Desktop\api\api\bin\Debug\net6.0\api.deps.json
+C:\Users\User\Desktop\api\api\bin\Debug\net6.0\api.runtimeconfig.json
+C:\Users\User\Desktop\api\api\bin\Debug\net6.0\api.dll
+C:\Users\User\Desktop\api\api\bin\Debug\net6.0\api.pdb
+C:\Users\User\Desktop\api\api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\User\Desktop\api\api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Desktop\api\api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Desktop\api\api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Desktop\api\api\obj\Debug\net6.0\api.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\api\api\obj\Debug\net6.0\api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\api\api\obj\Debug\net6.0\api.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\api\api\obj\Debug\net6.0\api.AssemblyInfo.cs
+C:\Users\User\Desktop\api\api\obj\Debug\net6.0\api.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\api\api\obj\Debug\net6.0\api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\api\api\obj\Debug\net6.0\api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\api\api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Desktop\api\api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Desktop\api\api\obj\Debug\net6.0\staticwebassets\msbuild.api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Desktop\api\api\obj\Debug\net6.0\staticwebassets\msbuild.build.api.props
+C:\Users\User\Desktop\api\api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.api.props
+C:\Users\User\Desktop\api\api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.api.props
+C:\Users\User\Desktop\api\api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\User\Desktop\api\api\obj\Debug\net6.0\scopedcss\bundle\api.styles.css
+C:\Users\User\Desktop\api\api\obj\Debug\net6.0\api.csproj.Up2Date
+C:\Users\User\Desktop\api\api\obj\Debug\net6.0\api.dll
+C:\Users\User\Desktop\api\api\obj\Debug\net6.0\refint\api.dll
+C:\Users\User\Desktop\api\api\obj\Debug\net6.0\api.pdb
+C:\Users\User\Desktop\api\api\obj\Debug\net6.0\api.genruntimeconfig.cache
+C:\Users\User\Desktop\api\api\obj\Debug\net6.0\ref\api.dll
+C:\Users\User\Documents\תכנות\אנגולר\פרויקט אנגולר סופיייייי\api\api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Documents\תכנות\אנגולר\פרויקט אנגולר סופיייייי\api\api\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Documents\תכנות\אנגולר\פרויקט אנגולר סופיייייי\api\api\bin\Debug\net6.0\api.exe
+C:\Users\User\Documents\תכנות\אנגולר\פרויקט אנגולר סופיייייי\api\api\bin\Debug\net6.0\api.deps.json
+C:\Users\User\Documents\תכנות\אנגולר\פרויקט אנגולר סופיייייי\api\api\bin\Debug\net6.0\api.runtimeconfig.json
+C:\Users\User\Documents\תכנות\אנגולר\פרויקט אנגולר סופיייייי\api\api\bin\Debug\net6.0\api.dll
+C:\Users\User\Documents\תכנות\אנגולר\פרויקט אנגולר סופיייייי\api\api\bin\Debug\net6.0\api.pdb
+C:\Users\User\Documents\תכנות\אנגולר\פרויקט אנגולר סופיייייי\api\api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\User\Documents\תכנות\אנגולר\פרויקט אנגולר סופיייייי\api\api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Documents\תכנות\אנגולר\פרויקט אנגולר סופיייייי\api\api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Documents\תכנות\אנגולר\פרויקט אנגולר סופיייייי\api\api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Documents\תכנות\אנגולר\פרויקט אנגולר סופיייייי\api\api\obj\Debug\net6.0\api.csproj.AssemblyReference.cache
+C:\Users\User\Documents\תכנות\אנגולר\פרויקט אנגולר סופיייייי\api\api\obj\Debug\net6.0\api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\תכנות\אנגולר\פרויקט אנגולר סופיייייי\api\api\obj\Debug\net6.0\api.AssemblyInfoInputs.cache
+C:\Users\User\Documents\תכנות\אנגולר\פרויקט אנגולר סופיייייי\api\api\obj\Debug\net6.0\api.AssemblyInfo.cs
+C:\Users\User\Documents\תכנות\אנגולר\פרויקט אנגולר סופיייייי\api\api\obj\Debug\net6.0\api.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\תכנות\אנגולר\פרויקט אנגולר סופיייייי\api\api\obj\Debug\net6.0\api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Documents\תכנות\אנגולר\פרויקט אנגולר סופיייייי\api\api\obj\Debug\net6.0\api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Documents\תכנות\אנגולר\פרויקט אנגולר סופיייייי\api\api\obj\Debug\net6.0\staticwebassets\msbuild.api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Documents\תכנות\אנגולר\פרויקט אנגולר סופיייייי\api\api\obj\Debug\net6.0\staticwebassets\msbuild.build.api.props
+C:\Users\User\Documents\תכנות\אנגולר\פרויקט אנגולר סופיייייי\api\api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.api.props
+C:\Users\User\Documents\תכנות\אנגולר\פרויקט אנגולר סופיייייי\api\api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.api.props
+C:\Users\User\Documents\תכנות\אנגולר\פרויקט אנגולר סופיייייי\api\api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\User\Documents\תכנות\אנגולר\פרויקט אנגולר סופיייייי\api\api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Documents\תכנות\אנגולר\פרויקט אנגולר סופיייייי\api\api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Documents\תכנות\אנגולר\פרויקט אנגולר סופיייייי\api\api\obj\Debug\net6.0\scopedcss\bundle\api.styles.css
+C:\Users\User\Documents\תכנות\אנגולר\פרויקט אנגולר סופיייייי\api\api\obj\Debug\net6.0\api.csproj.CopyComplete
+C:\Users\User\Documents\תכנות\אנגולר\פרויקט אנגולר סופיייייי\api\api\obj\Debug\net6.0\api.dll
+C:\Users\User\Documents\תכנות\אנגולר\פרויקט אנגולר סופיייייי\api\api\obj\Debug\net6.0\refint\api.dll
+C:\Users\User\Documents\תכנות\אנגולר\פרויקט אנגולר סופיייייי\api\api\obj\Debug\net6.0\api.pdb
+C:\Users\User\Documents\תכנות\אנגולר\פרויקט אנגולר סופיייייי\api\api\obj\Debug\net6.0\api.genruntimeconfig.cache
+C:\Users\User\Documents\תכנות\אנגולר\פרויקט אנגולר סופיייייי\api\api\obj\Debug\net6.0\ref\api.dll
